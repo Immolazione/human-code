@@ -1,0 +1,14 @@
+INIZIO
+
+1. Controlla la lista di persone
+2. "FINCHè" Ci sono due persone in piedi 
+    -"SE" si :
+        -Ci sono due sedie libere a tavola 
+        -"SE" si : faccio sedere le due persone 
+        -"SE" no : aggiungo due sedie 
+    -"SE" no : 3. C'è una persona in piedi 
+        -"SE" si :
+            -C'è una sedia libera a tavola 
+            -"SE" si : faccio sedere la persona
+            -"SE" no : aggiungo una sedia
+        -"SE" no : FINE
